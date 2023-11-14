@@ -18,13 +18,13 @@ const NavBar = () => {
           </Link>
           <div>
             <ul className="hidden sm:flex">
-              <Link href='/Recipes'>
+              <Link href='/recipes'>
                 <li className="ml-10 uppercase text-xl">Recipes</li>
               </Link>
-              <Link href='/Tips'>
+              <Link href='/tips'>
                 <li className="ml-10 uppercase text-xl">Tips</li>
               </Link>
-              <Link href='/Contact'>
+              <Link href='/contact'>
                 <li className="ml-10 uppercase text-xl">Contact</li>
               </Link>
             </ul>
